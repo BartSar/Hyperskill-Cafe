@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+.blockquote-footer{
+    font-style: italic !important;
+}
+footer.blockquote-footer{
+    font-style: italic !important;
+}
+.blockquote-footer *{
+    font-style: italic !important;
+}
+footer.blockquote-footer *{
+    font-style: italic !important;
+}
+.blockquote-footer > *{
+    font-style: italic !important;
+}
+footer.blockquote-footer > *{
+    font-style: italic !important;
+}
